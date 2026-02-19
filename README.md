@@ -3,7 +3,7 @@ Dato in input una cartella compressa, estrae il contenuto e tutti i file `.p7m` 
 ## Prerequisiti
 Il programma funziona per OS Windows 11
 ## Utilizzo
-- scaricare il programma P7M-ZIP-extract
+- scaricare il programma P7M-ZIP-extract da CODE > Download ZIP e decomprimerlo
 - inserire nella cartella `input` la cartella compressa `.zip` contenente i file `.p7m`
 - Avviare il programma con doppio click su `Extractor`
 - Attendi fino all'apertura del popoup che ti mostrerà il contenuto in input
